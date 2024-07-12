@@ -5,13 +5,21 @@ For this assignment you will be combining Docker with Python to create a program
 ## Submission Requirements:
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
+#### QR code in Blue for https://github.com/d-yerovi
+ ![LBYL](/qr_codes/QRCode_20240712024906.png "QR code in Blue for https://github.com/d-yerovi")
 
-PUT YOUR QR CODE IMAGE
+#### QR code for https://github.com/d-yerovi/hw7-my-qr-app.git
+ ![LBYL](/qr_codes/QRCode_20240712040217.png "QR code in Blue for https://github.com/d-yerovi/hw7-my-qr-app.git")
+
+#### QR code for https://www.tesla.com
+ ![LBYL](/qr_codes/QRCode_20240712032039.png "QR code for https://www.tesla.com")
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
+#### Docker QR logs
+ ![LBYL](qr-logs.png "Docker QR logs")
 
- PUT YOUR LOG IMAGE HERE
-
+#### Docker Desktop Containers
+ ![LBYL](docker-desktop.png "Docker Desktop Containers")
 
 # QR Code Generator
 This is a Python script that generates a QR code from a given URL and saves it to a file.
